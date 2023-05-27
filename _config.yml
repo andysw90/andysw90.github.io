@@ -10,7 +10,8 @@ author:
   social:
     twitter: andy_walker
     github:  andysw90
-    linkedin: andrewsimonwalker
+    linkedin: https://www.linkedin.com/in/andrewsimonwalker/
+    email: andysw90@gmail.com
     
 plugins:
   - jekyll-paginate
