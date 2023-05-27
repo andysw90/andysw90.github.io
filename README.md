@@ -1,62 +1,14 @@
 
 
-# Hydejack
+# Andrew Walker 
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
-
-
+Data Science PhD with professional experience in data cleaning, dashboarding, modeling, ML, and more
 
 
 
-[![Screenshot](https://hydejack.com/assets/img/blog/hydejack-9.jpg)][welcome]
 
-Hydejack's cover page on a variety of screens.
-
-
-
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
-
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
 
 > Your complete presence on the web — A [blog], [portfolio], and [resume].
-
-
-
-## A Personal Site That Won't Disappear
-
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
-
-Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
-
-## Download
-
-There are two versions of **Hydejack**: The *Free Version* includes basic blogging functionality and most of Hydejack's [Features], such as dynamic page loading and advanced animations.
-
-The *PRO Version* includes additional features for professionals, such as a [portfolio], [resume], [Dark Mode][dark], [Forms], [Built-In Search][search] and customizable cookie banners.
-
-The table below shows what's included in each version:
-
-|                               | Free           | PRO                 |
-|:------------------------------|:--------------:|:-------------------:|
-| [Blog]                        | &#x2714;       | &#x2714;            |
-| [Features]                    | &#x2714;       | &#x2714;            |
-| [Documentation][docs]         | &#x2714;       | &#x2714;            |
-| [Portfolio]                   |                | &#x2714;            |
-| Printable [Resume]            |                | &#x2714;            |
-| [Dark Mode][dark]             |                | &#x2714;            |
-| [Built-In Search][search]     |                | &#x2714;            |
-| [Custom Forms][forms]         |                | &#x2714;            |
-| [Newsletter Box][news]        |                | &#x2714;            |
-| [Grid layout][grid]           |                | &#x2714;            |
-| [Offline Support][ofln]       |                | &#x2714;            |
-| Table of Contents[^2]         |                | &#x2714;            |
-| Cookie Banner                 |                | &#x2714;            |
-| No Hydejack Branding          |                | &#x2714;            |
-| License                       | [GPL-3.0][lic] | [PRO]               |
-| Source                        | [GitHub][src]  | Included            |
-| __Price__ / Upgrade           | __Free__       | __$99__ / $39 [^3]  |
-| | [__Download__][kit] <br/>-- or --<br/> [__Deploy to Netlify__][nfy] | [__Buy PRO__][buy] |
-
 
 
 
@@ -115,34 +67,6 @@ They say math is beautiful — and with **Hydejack**'s [math support][math] it's
 Hydejack uses KaTeX to efficiently render math.
 
 
-
-
-## Build an Audience
-The PRO version has built-in support for customizable [Tinyletter] newsletter subscription boxes.
-
-If you are using a different service like MailChimp, you can build a custom newsletter subscription box using [Custom Forms][forms].
-
-
-
-
-## Features
-
-An incomplete list of features included in all versions of **Hydejack**:
-
-* Responsive layout with unique design features for every screen size
-* Cover Pages for a stunning fist impression.
-* Customizable sidebar and touch-enabled drawer menu
-* Single Page Web App-style page loading
-* Advanced FLIP animations, inspired by Material Design
-* Good [Google PageSpeed Score][gpss][^1]
-* [Syntax highlighting][syntax], powered by [Rouge]
-* [LaTeX math blocks][latex], rendered with ether [KaTeX] or [MathJax] at your choice
-* Soft-coded labels: Change wording or translate to other languages via a single file
-* Support for categories and tags
-* Author section below each article and support for multiple authors
-* Built-in icons for many social networks
-* Simple and semantic HTML + Structured Data
-* Google Analytics and Google Fonts support
 
 
 ## Comparison
