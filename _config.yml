@@ -1,10 +1,17 @@
 lang:                  en
 title:                 Andrew Walker
+tagline:               Data Scientist
 copyright:             © 2023. All rights reserved.
 
 url:                   https://andysw90.github.io
 baseurl:               ''
 
+author:
+  social:
+    twitter: andy_walker
+    github:  andysw90
+    linkedin: andrewsimonwalker
+    
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
